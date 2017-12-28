@@ -10,19 +10,13 @@
 4. 注册登陆github.com
 5. 右上角加号，新建仓库
 
-```
-Repository name： ryane-exam
 
-Init with README 不要打钩
-
-两个Add，默认None
-```
 
 ``` sh
 git init
 git add .
-git commit -m "init ryane-exam v0.1"
-git remote add origin https://github.com/ryanemax/ryane-exam.git
+git commit -m "init yangcp-exam v0.1"
+git remote add origin https://github.com/yangcp2008/yangcp-exam.git
 git push -u origin master
 ```
 
